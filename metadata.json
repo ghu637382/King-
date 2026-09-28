@@ -1,0 +1,6 @@
+{
+  "name": "Maya AI",
+  "description": "Multi-language AI voice assistant with real-time speech-to-text, text-to-speech, conversation display, and modular AI engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
